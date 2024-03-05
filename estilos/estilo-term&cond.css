@@ -1,0 +1,58 @@
+/* Estilos para la página de Política de Privacidad */
+.contenido-terminos {
+    
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: justify;
+
+}
+
+.contenido-terminos h1 {
+    margin-top: 120px;
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contenido-terminos h2 {
+    font-size: 1.5em;
+    margin-top: 30px;
+}
+
+.contenido-terminos p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+   /* Estilos para la página de Política de Privacidad */
+   .contenido-privacidad {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: justify;
+}
+
+.contenido-privacidad h1 {
+    margin-top: 120px;
+
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contenido-privacidad h2 {
+    font-size: 1.5em;
+    margin-top: 30px;
+}
+
+.contenido-privacidad p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
